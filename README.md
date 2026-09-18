@@ -33,22 +33,6 @@ Hello! I'm Hatya-mouse, a student at National Institute of Technology (NIT/Kosen
 [![GitHub](https://img.shields.io/badge/obsidian-black?style=for-the-badge&logo=obsidian&logoColor=%237C3AED)](https://obsidian.md)
 [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 
-## GitHub Stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=hatya-mouse&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=github_dark_dimmed">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=hatya-mouse&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=default_repocard">
-  <img alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=hatya-mouse&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=default_repocard">
-</picture>
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=hatya-mouse&hide_title=true&langs_count=3&theme=github_dark_dimmed">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=hatya-mouse&hide_title=true&langs_count=3&theme=default_repocard">
-  <img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=hatya-mouse&hide_title=true&langs_count=3&theme=default_repocard">
-</picture>
-
 ## Works
 
 Here are some screenshots from some of my recent projects:
