@@ -1,6 +1,6 @@
 # Shuntaro Kasatani
 
-[![Static Badge](https://img.shields.io/badge/hatya.dev-blue?style=for-the-badge)](https://hatya.dev)
+[![Static Badge](https://img.shields.io/badge/hacha.dev-blue?style=for-the-badge)](https://hacha.dev)
 [![Static Badge](https://img.shields.io/badge/%40hachanezu__mouse-black?style=for-the-badge&logo=x)](https://x.com/hachanezu_mouse)
 [![Static Badge](https://img.shields.io/badge/%40shuntar-orange?style=for-the-badge&logo=scratch&logoColor=white)](https://scratch.mit.edu/users/shuntar)
 
